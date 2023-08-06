@@ -14,3 +14,9 @@
 <img src="https://img.shields.io/badge/Windows 11-black?style=flat&logo=windows11&logoColor=white"/>
 
 이런것들을 해요!
+
+### 깃허브 통계
+[![jsyoon415's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsyoon415)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsyoon415)](https://github.com/anuraghazra/github-readme-stats)
+
