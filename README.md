@@ -15,6 +15,8 @@
 
 이런것들을 해요!
 
+아직 많이 없는 이유 : 거의 프라이빗이어서 ^^
+
 ### 깃허브 통계
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsyoon415)](https://github.com/anuraghazra/github-readme-stats)
