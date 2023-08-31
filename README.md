@@ -9,9 +9,9 @@
 
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-black?style=flat&logo=lua&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/VSCode-black?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Roblox studio-black?style=flat&logo=robloxstudio&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VSCode-black?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Roblox studio-black?style=flat&logo=robloxstudio&logoColor=white"/> <img src="https://img.shields.io/badge/XCode-black?style=flat&logo=XCode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Windows 11-black?style=flat&logo=windows11&logoColor=white"/>
+<img src="https://img.shields.io/badge/애플 조아-black?style=flat&logo=Apple&logoColor=white"/>
 
 이런것들을 해요!
 
