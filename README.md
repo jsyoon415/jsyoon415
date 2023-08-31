@@ -17,6 +17,13 @@
 
 아직 많이 없는 이유 : 거의 프라이빗이어서 ^^
 
+### (코딩 관련된) 좋아하는 것
+  1. 다크 모드
+  2. 맥북
+  3. 코딩
+  4. 크롬
+  5. 자바스크립트
+
 ### 깃허브 통계
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsyoon415)](https://github.com/anuraghazra/github-readme-stats)
