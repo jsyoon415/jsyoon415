@@ -30,8 +30,8 @@
 { english }
 
 ~~I like coding~~
-
 I do:
+
 <img src="https://img.shields.io/badge/Javascript-black?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Pug-black?style=flat&logo=Pug&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=white"/> ~~(but i don't do react now)~~
