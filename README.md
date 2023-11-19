@@ -44,8 +44,8 @@ I do:
 
 reason why i dont have many projects: Its all private ^^
 
-i am from korea! 🇰🇷
-
+i am from korea! 
+# 🇰🇷
 ### 깃허브 통계 | github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsyoon415)](https://github.com/anuraghazra/github-readme-stats)
