@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Javascript-black?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Pug-black?style=flat&logo=Pug&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=white"/> ~~( 사실 리엑트 요즘 안해요 )~~
+<img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-black?style=flat&logo=lua&logoColor=white"/> 
 
@@ -34,7 +34,7 @@ I do:
 
 <img src="https://img.shields.io/badge/Javascript-black?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Pug-black?style=flat&logo=Pug&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=white"/> ~~(but i don't do react now)~~
+<img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-black?style=flat&logo=lua&logoColor=white"/> 
 
