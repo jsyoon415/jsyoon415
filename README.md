@@ -31,8 +31,13 @@
 
 **이런것들을 해요!**
 
-**아직 만든게 많이 없는 이유 : 거의 프라이빗이어서 ^^**
+**아직 만든게 많이 없는 이유 : 거의 프라이빗임 ^^**
 
+디스코드 계정 : @jinseob. (뒤에 .까지)
+
+### 깃허브 통계 | github stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsyoon415)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 < ENGLISH >
@@ -59,8 +64,4 @@ Reason why i don't have many projects: Its all private ^^
 
 I am from korea! 
 
-# 🇰🇷
-### 깃허브 통계 | github stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsyoon415)](https://github.com/anuraghazra/github-readme-stats)
 
