@@ -30,19 +30,21 @@ My Favorite Langs :
 #### 백준 | Baekjoon Online Judge
 
 ![jinseob's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jinseob)
+
 **열심히 문제를 풀고 있어요!**
 
+---
 
 **Reason why i don't have many projects: Its all private ^^**
 
 Discord : @jinseob. (Don't forgot the . at the end)
 
-#### Sorry but I only accept DM. 
+#### Sorry but I only accept DM. (if you're person that don't know me)
 
 ### 깃허브 통계 | Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsyoon415)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+### In Construction 🚧
 
