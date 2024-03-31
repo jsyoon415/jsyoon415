@@ -1,14 +1,12 @@
 
 <h1 align="center">Hello World!</h1>
 
-### I am Korean person who likes CODING!
-
-
 My Favorite Langs :
 
 ### 🥇 Javascript 🥈 C++ 🥉 Python
 
 ---
+## Stacks 📚
 ### Language 🔗
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Lua-white?style=flat&logo=lua&logoColor=2C2D72"/> <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Javascript-black?style=flat&logo=Javascript&logoColor=F7DF1E"/>
 
@@ -27,8 +25,6 @@ My Favorite Langs :
 ### Design 🪄
 <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=F24E1E"/>
 
-#### 백준 | Baekjoon Online Judge
-
 ![jinseob's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jinseob)
 
 **열심히 문제를 풀고 있어요!**
@@ -37,9 +33,7 @@ My Favorite Langs :
 
 **Reason why i don't have many projects: Its all private ^^**
 
-Discord : @jinseob. (Don't forgot the . at the end)
-
-#### Sorry but I only accept DM. (if you're person that don't know me)
+Discord : @jinseob. (Don't forgot the . at the end!)
 
 ### 깃허브 통계 | Github Stats
 
