@@ -1,11 +1,8 @@
 
 <h1 align="center">Hello World!</h1>
 
-My Favorite Langs :
+**I'm Korean Student Developer!**
 
-### 🥇 Javascript 🥈 C++ 🥉 Python
-
----
 ## Stacks 📚
 ### Language 🔗
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Lua-white?style=flat&logo=lua&logoColor=2C2D72"/> <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Javascript-black?style=flat&logo=Javascript&logoColor=F7DF1E"/>
