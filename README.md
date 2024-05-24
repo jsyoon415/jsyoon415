@@ -21,5 +21,7 @@
 ## Social 🔔
 > Discord : <a href="https://discord.com/users/1112221177256083476">@__jinseob</a>
 
-### In Construction 🚧
 
+![Discord](https://discord.c99.nl/widget/theme-1/1112221177256083476.png)
+
+### In Construction 🚧
