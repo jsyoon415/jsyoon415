@@ -1,8 +1,8 @@
 
-<h1 align="center">Hello World!</h1>
+<h1>Hello World! :) </h1>
 
   
-**I'm Korean Student who enjoys Coding...!**
+**I am a Korean student that enjoys coding~**
 
 ## Stacks 📚
 > <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Lua-white?style=flat&logo=lua&logoColor=2C2D72"/> <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Javascript-black?style=flat&logo=Javascript&logoColor=F7DF1E"/>
@@ -13,15 +13,27 @@
 
 ### I'm Currently Learning...
 <img src="https://img.shields.io/badge/Typescript-black?style=flat&logo=typescript&logoColor=#3178C6"/>
+<details>
+
+<summary>Solved.ac profile</summary>
 
 ![jinseob's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jinseob)
 
 **열심히 문제를 풀고 있어요!**
 
-## Social 🔔
-> Discord : <a href="https://discord.com/users/1112221177256083476">@__jinseob</a>
+</details>
 
+
+## Social 🔔
+
+<details>
+
+<summary>Discord : <a href="https://discord.com/users/1112221177256083476">@__jinseob</a></summary>
 
 ![Discord](https://discord.c99.nl/widget/theme-1/1112221177256083476.png)
+
+</details>
+
+
 
 ### In Construction 🚧
