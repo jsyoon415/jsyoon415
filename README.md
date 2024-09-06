@@ -4,6 +4,8 @@
   
 **I am a Korean student that enjoys coding~**
 
+> 디스코드 어딘가에서 노동하는 디스코드 봇부터 정적 웹사이트, 동적 웹사이트, 서버까지 만들어요!
+
 ## Stacks 📚
 > <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Lua-white?style=flat&logo=lua&logoColor=2C2D72"/> <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Javascript-black?style=flat&logo=Javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/Pug-white?style=flat&logo=Pug&logoColor=A86454"/> <img src="https://img.shields.io/badge/React.js-black?style=flat&logo=React&logoColor=61DAFB"/>
